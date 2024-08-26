@@ -1,0 +1,26 @@
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            body{
+                background-color: rgb(230, 230, 238);
+            }
+            #titulo{
+                text-align: center;
+            }
+            img{
+                width: 300px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            h1{
+                font-size: 2em;
+                text-align: center;
+            }
+        </style>
+    </head>
+    
